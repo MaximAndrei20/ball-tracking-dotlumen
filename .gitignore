@@ -1,0 +1,12 @@
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+cache/
+*.pt
+*.pth
+.pytest_cache/
+.ipynb_checkpoints/
+rgb.avi
+dotLumen_SW-Challenge3.docx
+~$*
